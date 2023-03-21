@@ -1,0 +1,16 @@
+.section__hero {
+    padding: 200px 20px;
+}
+
+.p-pic {
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 50%;
+    margin-bottom: 40px;
+}
+
+h1,h2 {
+    color:darkmagenta
+}
+
